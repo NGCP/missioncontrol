@@ -39,7 +39,7 @@
   "devDependencies": {
     "@babel/preset-react": "^7.8.3",
     "@types/chai": "^4.2.8",
-    "@types/mocha": "^7.0.1",
+    "@types/mocha": "^8.2.3",
     "@types/msgpack-lite": "^0.1.7",
     "@types/node": "^12.12.29",
     "@types/rc-slider": "^8.6.5",
